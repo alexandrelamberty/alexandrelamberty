@@ -1,14 +1,13 @@
 # Introduction
 
-I have reen a daily hobby for over 25 years. Programming a passion.
-Designing, drawing and building things a way of life. Art is
-everywhere...
+I have been messing around with computer and programming for over 25
+years. 
 
-I got my first computer back in 1994. It was an Olivetti 486-DX2-66,
-with a 66MHz processor and 8mb of ram. It was running on Windows 3.1. A
-few months latter I got a copy of Windows 95. I then reinstalled the
-system and everything really started from there. I was 12 years old at
-the time. 
+I got my first computer back in 1994. It was an Olivetti
+486-DX2-66, with a 66MHz processor and 8mb of ram. It was running on
+Windows 3.1. A few months latter I got a copy of Windows 95. I then
+reinstalled the system and everything really started from there. I was
+12 years old at the time. 
 
 With Windows 95 I dived deeper and deeper in the system and how it
 works. I got to get my first dial-up Internet access with a 14.4k modem.
