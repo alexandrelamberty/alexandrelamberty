@@ -30,9 +30,8 @@ ecosystem of Flash had evolved a lot with Flex and AIR and Actionscript
 3.  At the same time I was finishing school in Digital Communication.
 
 A few years latter I had the opportunity to get my first job in IT for
-my deep knowledge in theses technologies and the language. 
-
-I kept learning and being interests in everything related to computers,
+my deep knowledge in theses technologies and the language. I kept
+learning and being interests in everything related to computers,
 internet and programming. I also kept doing design, graphics and 3D.
 
 Nowadays my interests have grown and diverge, covering a wide spectrum.
