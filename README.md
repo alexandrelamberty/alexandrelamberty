@@ -1,7 +1,8 @@
 # Introduction
 
 I have been messing around with computer and programming for over 25
-years. 
+years. Designing, drawing, sketching and building things ever since I
+can remember. 
 
 I got my first computer back in 1994. It was an Olivetti
 486-DX2-66, with a 66MHz processor and 8mb of ram. It was running on
