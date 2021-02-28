@@ -25,7 +25,7 @@ in love with it. I got a copy Flash and started my journey with my first
 programming language, Actionscript. I stick to Flash and Actionscript
 for a decade.
 
-In the early 2OOOs I had the pleasure to become moderator for a big
+In the early 2000s I had the pleasure to become moderator for a big
 french forum [Mediabox](https://www.mediabox.fr). A this time the
 ecosystem of Flash had evolved a lot with Flex and AIR and Actionscript
 3.  At the same time I was finishing school in Digital Communication.
