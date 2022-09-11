@@ -8,7 +8,7 @@
   - Learn more about DevOps
   - Get a job in IT
 
-## :sparkles: On what the heck I spent my time
+## :sparkles: On what I spent my time
 
 - Software Architecture / Development
 - Server Infrastructure / Management
