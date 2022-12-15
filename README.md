@@ -2,11 +2,11 @@
 
 ##### I am computer hobbyist, programming aficionado and \*nix enthusiast
 
-- 🌱 I’m currently learning everything but more specifically C, GO, Lua and micro-controller
+- 🌱 I’m currently learning everything but more specifically C, GO, TypeScript, Lua and micro-controller
 - 👯 I’m looking for to collaborate with other on projects
 - 🥅 2022 Goals
   - Learn more about DevOps
-  - Get a job in IT
+  - ~~Get a job in IT~~ I started a full stack web developer training
 
 ## :sparkles: On what I spent my time
 
