@@ -1,6 +1,6 @@
 ## 👋 Hello and welcome
 
-I am Alex, a computer hobbyist, programming aficionado and *nix enthousiast with
+I am Alex, a computer hobbyist, programming aficionado and *nix enthusiast with
 a passion for software architecture and building scalable, reliable systems.
 
 My interests include software architecture, microservices, service-oriented
