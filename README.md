@@ -1,49 +1,33 @@
-## Hi 👋, my name is Alex
+## 👋 Hello and welcome
 
-##### I am computer hobbyist, programming aficionado and \*nix enthusiast
+I am Alex, a computer hobbyist, programming aficionado and *nix enthousiast with
+a passion for software architecture and building scalable, reliable systems.
 
-- 🌱 I’m currently learning everything but more specifically C, GO, TypeScript, Lua and micro-controller
-- 👯 I’m looking for to collaborate with other on projects
-- 🥅 2022 Goals
-  - Learn more about DevOps
-  - ~~Get a job in IT~~ I started a full stack web developer training
+My interests include software architecture, microservices, service-oriented
+architecture, APIs (OpenAPI), databases, data structures, automation, AI and
+microcontrollers. I am also focused on programming standards, DevOps, CI/CD,
+documentation. I am also interested internet standards (RFCs) and
+specifications.
 
-## :sparkles: On what I spent my time
+Currently I am undergoing training to become a full-stack web developer, and I
+am learning TypeScript, Go and Lua as well.
 
-- Software Architecture / Development
-- Server Infrastructure / Management
-- Microcontroller, IoT, Automation, Monitoring
-- Database, Data structure
-- Application Programming Interfaces
-- Service Oriented Architecture
-- Microservices
+In terms of programming and scripting languages, I have experience with
+JavaScript/TypeScript (client/server) and Bash. I have experience working with
+databases and storage systems such as MySQL, PostgreSQL, SQLite, MongoDB and
+Redis. I am familiar with internet protocols such as HTTP/HTTPS, MQTT and
+WebSocket. I have also used web hosting and services platforms such as GitHub,
+Jira, Google Cloud Platform, Heroku, Linode and MongoDB Atlas.
 
-## My tools
+I use Linux as my main operating system and my daily drivers include Xterm, Zsh,
+Tmux, Neovim and VSCode. I also have experience with tools such as Git, Docker,
+Node.js, npm, ESLint, esbuild, Prettier, Postman and MySQL Workbench.
 
-`Arch Linux` `Debian` `Xterm` `Zsh` `Tmux` `Neovim` `VS Code` `Docker` `NGINX`
-`Kubernetes` `NodeJS` `Postman`
+I have experience working with frameworks such as React, NestJS, Mux, Fiber,
+Hugo, Bootstrap, Semantic UI, and TailwindCSS. I am also familiar with other
+languages and formats such as HTML, CSS, Markdown, YAML, XML and JSON.
 
-### Programming languages
+I look forward to sharing my projects, collaborate with others and learning from
+the community.
 
-`C` `C++` `GO` `JavaScript / TypeScript` `Lua` `PHP`
-
-### Databases / Storage
-
-`MySQL` `PostgreSQL` `SQLite` `MongoDB` `Redis`
-
-### Internet protocols
-
-`DHCPv6` `HTTP/HTTPS` `MQTT` `Tor` `WebSocket`
-
-### Web Hosting / Services Platform
-
-`AWS` `Github` `Google Cloud Platform` `Heroku` `Linode` `MongoDB Atlas`
-
-### Frameworks
-
-`Hugo` `React` `NestJS` `Mux` `Fiber` `Bootstrap` `Semantic UI` `TailwindCSS`
-
-### Other languages and formats
-
-`Bash` `HTML` `CSS (Sass, Less, PostCSS)` `Markdown` `YAML` `XML`
-`JSON`
+Thank you for visiting my page!
