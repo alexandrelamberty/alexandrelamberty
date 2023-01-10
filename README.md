@@ -10,8 +10,7 @@ CI/CD, and documentation.
 I am always curious about internet standards (RFCs) and new specifications and
 technologies.
 
-Currently, I am undergoing training to become a full-stack web developer, and I
-am learning Go and Lua as well.
+Currently, I am undergoing training to become a full-stack web developer.
 
 I look forward to sharing my projects, collaborate with others and learning from
 the community.
