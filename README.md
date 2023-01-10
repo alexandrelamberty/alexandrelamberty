@@ -5,10 +5,7 @@ a passion for software architecture and building scalable, reliable systems.
 
 My interests include microservice, API, data structure, automation, AI and
 microcontrollers. My main focus is on good code, programming standards, DevOps,
-CI/CD, and documentation.
-
-I am always curious about internet standards (RFCs) and new specifications and
-technologies.
+CI/CD, and documentation. I am curious about new technologies, internet standards (RFCs) and specifications.
 
 Currently, I am undergoing training to become a full-stack web developer.
 
