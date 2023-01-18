@@ -9,7 +9,9 @@ CI/CD, and documentation. I am curious about new technologies, internet standard
 
 Currently, I am undergoing training to become a full-stack web developer.
 
-I look forward to sharing my projects, collaborate with others and learning from
-the community.
+### My tools
 
-Thank you for visiting my page!
+[![Languages and formats](https://skillicons.dev/icons?i=ts,js,go,html,css,sass,tailwindcss,bootstrap,react,angular,nestjs,nodejs,express,mysql,postgres,mongodb,redis,nginx,docker)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,vim,bash,git,vercel,netlify,github,githubactions)](https://skillicons.dev)
+
