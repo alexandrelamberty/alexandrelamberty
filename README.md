@@ -11,5 +11,5 @@ Currently, I am undergoing training to become a full-stack web developer.
 
 ### My tools
 
-[![Languages and formats](https://skillicons.dev/icons?i=ts,js,go,tailwindcss,bootstrap,angular,nestjs,react,nodejs,express,mysql,postgres,mongodb,redis,nginx,docker)](https://skillicons.dev)
+[![Languages and formats](https://skillicons.dev/icons?i=ts,go,angular,nestjs,react,nodejs,express,mysql,postgres,mongodb,redis,nginx,docker)](https://skillicons.dev)
 
