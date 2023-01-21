@@ -17,7 +17,7 @@ For my bigger projects I choose to host them on organization repositories.
 
 - [Hortus](https://github.com/open-hortus)
 
-  A gardenning planner that I use for my personal cultures. 
+  A gardenning planner. 
 
 - [Nidus](https://github.com/open-nidus)
 
