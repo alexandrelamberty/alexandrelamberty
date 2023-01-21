@@ -17,11 +17,11 @@ For my bigger projects I choose to host them on organization repositories.
 
 - [Hortus](https://github.com/open-hortus)
 
-  A gardenning planner. 
+  A personal gardening planner.
 
 - [Nidus](https://github.com/open-nidus)
 
-  My personal home monitoring and automation solution. 
+  Experimental home monitoring and automation solution. 
 
 - [FSWD](https://github.com/open-fswd)
 
