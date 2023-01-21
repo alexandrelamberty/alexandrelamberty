@@ -23,7 +23,7 @@ Here are some projects I am working on:
 
 - #### [FSWD](https://github.com/open-fswd)
 
-  Full stack web development resource, templates, and projects. Here I put almost everything I do related to development.
+  Full stack web development resource, templates, and projects. Here I put almost everything I do related to web development.
 
 ### Tools
 
