@@ -1,7 +1,6 @@
 ## 👋 Hello and welcome
 
-I am Alex, a computer hobbyist, programming aficionado and *nix enthusiast with
-a passion for software architecture and building scalable, reliable systems.
+I am Alex, a computer hobbyist with a passion for software architecture and building scalable, reliable systems.
 
 My interests include microservice, API, data structure, automation, microcontrollers, UI, UX, and AI.
 My main focus is on good code, programming standards, DevOps,
