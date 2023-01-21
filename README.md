@@ -34,6 +34,6 @@ development processes so here are some of the tools I use, with some nice icons!
 
 [![Languages and formats](https://skillicons.dev/icons?i=ts,go,angular,nestjs,react,nodejs,express,mysql,postgres,mongodb,redis,nginx,docker,)](https://skillicons.dev)
 
-As I can use many services, tools and frameworks I'm also a minimalist and avid user of vim, markdown, yaml and paper to organize my personal data...
+As I use many services, tools and frameworks I'm also a minimalist and avid user of vim, markdown, yaml and paper to organize my personal data...
 
 Thank you for visiting my page!
