@@ -10,9 +10,9 @@ Currently, I am undergoing training to become a full-stack web developer.
 
 ### Projects
 
-On my personal repositories I mainly keep my utilities projects, configurations, notes, websites and others things.
+On my personal repositories I mainly keep my utilities projects, configurations, notes, websites and others projects.
 
-For my bigger projects I choose to host them on organization repositories.
+For my large, subdivided projects I choose to host them on organization repositories.
 
 Here are some projects I am working on: 
 
