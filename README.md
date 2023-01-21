@@ -9,7 +9,25 @@ CI/CD, and documentation. I am curious about new technologies, internet standard
 
 Currently, I am undergoing training to become a full-stack web developer.
 
-### My tools
+### Projects
+
+On my personal repositories I mainly keep my personal projects, configurations, websites and others things.
+
+For my bigger projects I choose to host them on organization repositories.
+
+- [Hortus](https://github.com/open-hortus)
+
+  A gardenning planner that I use for my personal cultures. 
+
+- [Nidus](https://github.com/open-nidus)
+
+  My personal home monitoring and automation solution. 
+
+- [FSWD](https://github.com/open-fswd)
+
+  Full stack web development resources, templates, and projects. Here I put almost everything I do related to development.
+
+### Tools
 
 [![Languages and formats](https://skillicons.dev/icons?i=ts,go,angular,nestjs,react,nodejs,express,mysql,postgres,mongodb,redis,nginx,docker,)](https://skillicons.dev)
 
