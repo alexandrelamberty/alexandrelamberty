@@ -25,7 +25,7 @@ For my bigger projects I choose to host them on organization repositories.
 
 - [FSWD](https://github.com/open-fswd)
 
-  Full stack web development resources, templates, and projects. Here I put almost everything I do related to development.
+  Full stack web development resource, templates, and projects. Here I put almost everything I do related to development.
 
 ### Tools
 
