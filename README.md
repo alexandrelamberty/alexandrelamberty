@@ -14,15 +14,17 @@ On my personal repositories I mainly keep my utilities projects, configurations,
 
 For my bigger projects I choose to host them on organization repositories.
 
-#### [Hortus](https://github.com/open-hortus)
+Here are some projects I am working on: 
+
+- #### [Hortus](https://github.com/open-hortus)
 
   A personal gardening planner.
 
-#### [Nidus](https://github.com/open-nidus)
+- #### [Nidus](https://github.com/open-nidus)
 
   Experimental home monitoring and automation solution.
 
-#### [FSWD](https://github.com/open-fswd)
+- #### [FSWD](https://github.com/open-fswd)
 
   Full stack web development resource, templates, and projects. Here I put almost everything I do related to development.
 
