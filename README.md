@@ -1,6 +1,6 @@
 ## 👋 Hello and welcome
 
-I am Alex, a full stack web developer with a passion for software architecture and building scalable, reliable systems.
+I am Alex, a full stack web developer student with a passion for software architecture and building scalable, reliable systems.
 
 My interests include microservice, SOA, API, data structure, automation, microcontrollers, UI, UX, and AI.
 My main focus is on good code, programming standards, DevOps,
