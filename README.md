@@ -3,8 +3,7 @@
 I am Alex, a full stack web developer student with a passion for software architecture and building scalable, reliable systems.
 
 My interests include microservice, SOA, API, data structure, automation, microcontrollers, UI, UX, and AI.
-My main focus is on good code, programming standards, DevOps,
-CI/CD, and documentation. I am curious about new technologies, internet standards (RFCs) and specifications.
+My main focus is on good code, programming standards, DevOps, and documentation. I am curious about new technologies, internet standards (RFCs) and specifications.
 
 ### Tools
 
