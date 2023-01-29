@@ -6,25 +6,6 @@ My interests include microservice, SOA, API, data structure, automation, microco
 My main focus is on good code, programming standards, DevOps,
 CI/CD, and documentation. I am curious about new technologies, internet standards (RFCs) and specifications.
 
-### Projects
-
-On my personal repositories I mainly keep my utilities projects, configurations, notes, websites and others projects.
-For my large, subdivided projects I choose to host them on organization repositories.
-
-Here are some projects I am working on: 
-
-- #### [Hortus](https://github.com/open-hortus)
-
-  A personal gardening planner.
-
-- #### [Nidus](https://github.com/open-nidus)
-
-  Experimental home monitoring and automation solution.
-
-- #### [FSWD](https://github.com/open-fswd)
-
-  Full stack web development resources sharing application.
-
 ### Tools
 
 As a developer I am faced with a huge amount of things needed in most of the
