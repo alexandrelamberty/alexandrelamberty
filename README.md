@@ -27,7 +27,7 @@ Here are some projects I am working on:
 
 ### Tools
 
-As a developer I am faced with a huge amount a things needed in most of the
+As a developer I am faced with a huge amount of things needed in most of the
 development processes so here are some of the tools I use, with some nice icons!
 
 [![Languages and formats](https://skillicons.dev/icons?i=ts,go,angular,nestjs,react,nodejs,express,mysql,postgres,mongodb,redis,nginx,docker,)](https://skillicons.dev)
