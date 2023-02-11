@@ -10,6 +10,6 @@ My main focus is on good code, programming standards, DevOps, and documentation.
 As a developer I am faced with a huge amount of things needed in most of the
 development processes, so here are some of the tools I use, with some nice icons!
 
-[![Languages and formats](https://skillicons.dev/icons?i=go,ts,react,angular,nestjs,nodejs,express,mysql,postgres,mongodb,redis,nginx,docker,)](https://skillicons.dev)
+[![Languages and formats](https://skillicons.dev/icons?i=go,ts,react,angular,nestjs,nodejs,express,mysql,postgres,mongodb,redis,nginx,docker,bash)](https://skillicons.dev)
 
 Thank you for visiting my page!
