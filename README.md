@@ -31,7 +31,7 @@ A collection of websites I've designed and developed:
 
 Client-side applications designed for web usage:
 
-* **NeoaWS ([nasa-neows-web-app](https://github.com/alexandrelamberty/nasa-neows-webapp))**: NASA Near Earth Object Web Application.
+* **NeoWS ([nasa-neows-web-app](https://github.com/alexandrelamberty/nasa-neows-webapp))**: NASA Near Earth Object Web Application.
 
 #### Server Applications
 
