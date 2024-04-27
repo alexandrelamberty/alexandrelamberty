@@ -66,8 +66,8 @@ Plugins and extensions tailored to enhance your digital experience:
 
 * **Youtube  ([youtube-google-chrome]())**: Save YouTube video thumbnail, archive video, download video.
 * **Documents Organization ([documents-gdoc]())**: Google Document exstension to create binders labels and front page to organize your documents.
-* **IKBS ([ikbs-nvim](https://github.com/alexandrelamberty/ikbs-nvim))**: Google Document exstension to create binders labels and front page to organize your documents.
-* **Proiectidux ([proiectidux-nvim](https://github.com/alexandrelamberty/proiectidux-nvim))**: Google Document exstension to create binders labels and front page to organize your documents.
+* **IKBS ([ikbs-nvim](https://github.com/alexandrelamberty/ikbs-nvim))**: Neovim plugin to interact with my information and knowledge base system.
+* **Proiectidux ([proiectidux-nvim](https://github.com/alexandrelamberty/proiectidux-nvim))**: Project Management Neovim Plugin.
 
 #### OpenAPI Specifications
 
