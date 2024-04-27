@@ -2,7 +2,7 @@
 
 I'm Alex, a computer hobbyist, builder, and designer deeply passionate about programming. With a keen interest in software development, I explore various facets of the field, from architectural principles to implementation details. As an avid reader and *nix enthusiast, I'm always seeking new technologies and ways to expand my knowledge base.
 
-Feel free to connect with me through [my website](https://alexandrelamberty) or via email at <mail@alexandrelamberty.com>.
+Feel free to connect with me through [my website](https://alexandrelamberty.com) or via email at <mail@alexandrelamberty.com>.
 
 ### Projects
 
