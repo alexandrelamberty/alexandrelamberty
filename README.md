@@ -84,7 +84,7 @@ Automated workflows using GitHub Actions:
 
 #### Configurations
 
-Automated workflows using GitHub Actions:
+Configurations tailored for various software and Linux environments:
 
 * **\*NIX Configuration ([nix-config](https://github.com/alexandrelamberty/nix-config))**: Overview of*nix configurations and setups.
 * **ZSH ([zsh-config](https://github.com/alexandrelamberty/zsh-config))**: Overview of*nix configurations and setups.
