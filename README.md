@@ -62,7 +62,7 @@ Reusable libraries and frameworks:
 
 #### Extensions / Plugins
 
-Reusable libraries and frameworks:
+Plugins and extensions tailored to enhance your digital experience:
 
 * **Youtube  ([youtube-google-chrome]())**: Save YouTube video thumbnail, archive video, download video.
 * **Documents Organization ([documents-gdoc]())**: Google Document exstension to create binders labels and front page to organize your documents.
