@@ -4,7 +4,7 @@ I'm Alex, a computer hobbyist, builder, and designer deeply passionate about pro
 
 Feel free to connect with me through [my website](https://alexandrelamberty.com) or via email at <mail@alexandrelamberty.com>.
 
-### :blue_book: Projects
+## :blue_book: Projects
 
 Let's take a peek into my project collection. I have quite a few ongoing ones—I tend to generate ideas faster than code! Here's a snapshot of what's currently in the pipeline:
 
@@ -159,16 +159,19 @@ Repositories for storing information and knowledge:
 * **[Cooking-Recipes](https://github.com/alexandrelamberty/cooking-recipes) ([cooking-recipes.idomeyoudoyou.com](https://cooking-recipes.idomeyoudoyou.com))**: My cooking recipes.
 * **[Favorites](https://github.com/alexandrelamberty/favorites) ([favorites.idomeyoudoyou.com](https://favorites.idomeyoudoyou.com))**: My lists of books, movies, musics, paitnings, ...
 
-### :bookmark_tabs: Registries
+## :bookmark_tabs: Registries
 
 In addition to my projects hosted on GitHub, you can also find my Node libraries on both [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=npm&tab=packages) and [NPM](https://www.npmjs.com/~alexandrelamberty?activeTab=packages). For containerized solutions, my Docker images are available on [Docker Hub](https://hub.docker.com/u/alexandrelamberty) and [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=container&tab=packages).
 
-### :computer: Tools
+## :zap: Contributing
 
-I rely on a variety of tools and technologies to bring my ideas to life. Here's
-a glimpse of some of the key tools I use:
+Thank you for considering contributing to my projects! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions, from fixing a typo to adding a new feature, are highly appreciated.
 
-[![Languages and formats](https://skillicons.dev/icons?i=html,css,sass,go,js,ts,react,angular,nestjs,nodejs,express,mysql,postgres,mongodb,redis,nginx,docker,kubernetes,bash,markdown,git,github,githubactions,linux,arch,debian,raspberrypi)](https://skillicons.dev)
+Please read the `README.md` and `CONTRIBUTING.md` from each projects before making a pull request.
+## :two_hearts: Thank You!
 
+Thank you for taking the time to explore my projects and repositories. Your interest means a lot to me, and I hope you found something valuable here. Whether you're a fellow developer, a curious enthusiast, or someone stumbling upon this page by chance, your support and engagement are deeply appreciated.
 
-Thank you for visiting my page!
+If you have any questions, suggestions, or feedback, feel free to reach out to me. I'm always eager to connect with like-minded individuals and discuss ideas, collaborations, or just have a friendly chat.
+
+Once again, thank you for visiting, and I look forward to crossing paths with you again soon!
