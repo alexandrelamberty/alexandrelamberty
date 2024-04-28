@@ -16,9 +16,9 @@ A collection of websites I've designed and developed:
 * **My production website ([eevos.be](https://github.com/alexandrelamberty/eevos.be))**: Visit my production website, showcasing applications and IT services.
 * **My blog ([idomeyoudoyou.com](https://github.com/alexandrelamberty/idomeyoudoyou))**: Dive into my blog, featuring posts, essays, galleries, ideas, and various topics.
 
-#### Full Stack Ventures
+#### Full Stack Systems
 
- Full-stack projects covering a wide range of technologies. Each project showcases a deep exploration of various tech stacks, offering a formal and structured approach to software development:
+ Full-stack projects covering a wide range of technologies. Each project showcases a deep exploration of various tech stacks:
 
 * **Hortus ([hortus](https://github.com/alexandrelamberty/hortus))**: Gardening Planner.
 * **Macellum ([macellum](https://github.com/alexandrelamberty/macellum))**: Grocery Management System.
