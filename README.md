@@ -12,10 +12,10 @@ Let's take a peek into my project collection. I have quite a few ongoing ones—
 
 A collection of websites I've designed and developed:
 
-* **[My personal website](https://github.com/alexandrelamberty/personal-website) ([https://alexandrelamberty.com](https://alexandrelamberty.com))**: A space where I share about myself, my projects, and my notes.
-* **[My production website](https://github.com/alexandrelamberty/eevos.be) ([https://eevos.be](https://eevos.be))**: Visit my production website, showcasing applications.
-* **[My blog](https://github.com/alexandrelamberty/idomeyoudoyou) ([https://idomeyoudoyou.com](https://idomeyoudoyou.com))**: Dive into my blog, featuring posts, essays, galleries, ideas, and various topics.
-
+* **[My personal website](https://github.com/alexandrelamberty/personal-website)**: A space where I share about myself, my projects, and my notes. :globe_with_meridians: [https://alexandrelamberty.com](https://alexandrelamberty.com)
+* **[My production website](https://github.com/alexandrelamberty/eevos.be)**: Visit my production website, showcasing applications. :globe_with_meridians: [https://eevos.be](https://eevos.be)
+* **[My blog](https://github.com/alexandrelamberty/idomeyoudoyou)**: Dive into my blog, featuring posts, essays, galleries, ideas, and various topics. :globe_with_meridians:  [https://idomeyoudoyou.com](https://idomeyoudoyou.com)
+  
 ### :bookmark: Full Stack Systems
 
  Full-stack projects covering a wide range of technologies. Each project showcases a deep exploration of various tech stacks:
