@@ -8,7 +8,7 @@ Feel free to connect with me through [my website](https://alexandrelamberty.com)
 
 Let's take a peek into my project collection. I have quite a few ongoing ones—I tend to generate ideas faster than code! Here's a snapshot of what's currently in the pipeline:
 
-#### :bookmark: Websites
+### :bookmark: Websites
 
 A collection of websites I've designed and developed:
 
@@ -16,7 +16,7 @@ A collection of websites I've designed and developed:
 * **My production website ([eevos.be](https://github.com/alexandrelamberty/eevos.be))**: Visit my production website, showcasing applications.
 * **My blog ([idomeyoudoyou.com](https://github.com/alexandrelamberty/idomeyoudoyou))**: Dive into my blog, featuring posts, essays, galleries, ideas, and various topics.
 
-#### :bookmark: Full Stack Systems
+### :bookmark: Full Stack Systems
 
  Full-stack projects covering a wide range of technologies. Each project showcases a deep exploration of various tech stacks:
 
@@ -27,38 +27,38 @@ A collection of websites I've designed and developed:
 * **Collab ([collab](https://github.com/alexandrelamberty/nidus))**: Collaborative Project Management.
 * **IKBS ([ikbs](https://github.com/alexandrelamberty/ikbs))**: Information and Knowledge Based System
 
-#### :bookmark: Web Client Applications
+### :bookmark: Web Client Applications
 
 Client-side applications designed for web usage:
 
 * **NeoWS ([nasa-neows-web-app](https://github.com/alexandrelamberty/nasa-neows-webapp))**: NASA Near Earth Object Web Application.
 
-#### :bookmark: Server Applications
+### :bookmark: Server Applications
 
 Applications deployed on servers:
 
 * **Belgian Heating Oil Price ([bhop-api](https://github.com/alexandrelamberty/bhop))**: Belgium Heating Oil Prices Monitoring Microservice.
 
-#### :bookmark: Mobile Applications
+### :bookmark: Mobile Applications
 
 Applications designed for mobile platforms:
 
 * **Planta ([planta-mobile-app](https://github.com/alexandrelamberty/planta-mobile-app))**: Plant Healthcare Mobile Application.
 
-#### :bookmark: CLI Creations
+### :bookmark: CLI Creations
 
 Command-line tools and utilities:
 
 1. **IKBS ([ikbs-cli](https://github.com/alexandrelamberty/ikbs-cli))**: Information and Knowledge Base System Command Line Interface
 
-#### :bookmark: Libraries & Frameworks
+### :bookmark: Libraries & Frameworks
 
 Reusable libraries and frameworks:
 
 1. **Pittacium ([pittacium-go](https://github.com/alexandrelamberty/pittacium))**: Generate PDF document with labels.
 2. **Banking Lib Demo ([banking-lib-demo](https://github.com/alexandrelamberty/banking-lib-demo))**: Banking library demo package for my FSWD training.
 
-#### :bookmark: Extensions / Plugins
+### :bookmark: Extensions / Plugins
 
 Plugins and extensions tailored to enhance your digital experience:
 
@@ -67,20 +67,20 @@ Plugins and extensions tailored to enhance your digital experience:
 * **IKBS ([ikbs-nvim](https://github.com/alexandrelamberty/ikbs-nvim))**: Neovim plugin to interact with my information and knowledge base system.
 * **Proiectidux ([proiectidux-nvim](https://github.com/alexandrelamberty/proiectidux-nvim))**: Project Management Neovim Plugin.
 
-#### :bookmark: OpenAPI Specifications
+### :bookmark: OpenAPI Specifications
 
 API specifications and documentation:
 
 * **NeoWS API Specification ([nasa-neows-api-spec](https://github.com/alexandrelamberty/nasa-neows-api-spec))**: NASA Near Earth Object Web Service API Specification.
 
-#### :bookmark: GitHub Actions
+### :bookmark: GitHub Actions
 
 Automated workflows using GitHub Actions:
 
 * **Hugo ([hugo-notes-action](https://github.com/alexandrelamberty/hugo-notes-action))**: Action that generate content for Hugo based on my notes structure and organization.
 * **Stoplight OpenAPI Documentation Action ([openapi-stoplight-doc-action](https://github.com/alexandrelamberty/openapi-stoplight-doc-action))**: Action that generate API documentation from your OpenAPI specification.
 
-#### :bookmark: Configurations
+### :bookmark: Configurations
 
 Configurations tailored for various software and Linux environments:
 
@@ -93,7 +93,7 @@ Configurations tailored for various software and Linux environments:
 * **Dmenu ([dmenu-config](https://github.com/alexandrelamberty/dmenu-config))**: Overview of*nix configurations and setups.
 * **Prettier ([prettier-config](https://github.com/alexandrelamberty/prettier-config))**: Fine-tuned Prettier configuration for consistent code formatting.
 
-#### :bookmark: Infrastructure Adventures
+### :bookmark: Infrastructure Adventures
 
 Projects related to infrastructure management:
 
@@ -102,7 +102,7 @@ Projects related to infrastructure management:
 * **Linux Environments ([lenv-iac](https://github.com/alexandrelamberty/lenv-iac))**: Ansible playbook for my workstations.
 * **Ansible Docker ([ansible-docker](https://github.com/alexandrelamberty/lenv-iac))**: Ansible Role to install Docker.
 
-#### :bookmark: Templates
+### :bookmark: Templates
 
 Reusable templates for various purposes:
 
@@ -129,7 +129,7 @@ Reusable templates for various purposes:
 * **k3s ([k3s](https://github.com/alexandrelamberty/k3s))**:
 * **Kubernetes ([kubernetes](https://github.com/alexandrelamberty/kubernetes))**:
 
-#### :bookmark: Schemas
+### :bookmark: Schemas
 
 Schema definitions for various types of documents and data structures, providing standardized formats for representing information.
 
@@ -140,13 +140,13 @@ Schema definitions for various types of documents and data structures, providing
 * **Post Schema ([post-schema](https://github.com/alexandrelamberty/post-schema))**:
 * **Resume Schema ([resume-schema](https://github.com/alexandrelamberty/resume-schema))**:
 
-#### :bookmark: Forks
+### :bookmark: Forks
 
 Forks of existing projects:
 
 * **Dmenu ([dmenu-patched](https://github.com/alexandrelamberty/dmenu-patched))**: Fork of dmenu with patches.
 
-#### :bookmark: Information and Knowledge
+### :bookmark: Information and Knowledge
 
 Repositories for storing information and knowledge:
 
