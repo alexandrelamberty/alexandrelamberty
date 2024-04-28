@@ -13,7 +13,7 @@ Here's a glimpse of my ongoing projects:
 A collection of websites I've designed and developed:
 
 * **My personal website ([alexandrelamberty.com](https://github.com/alexandrelamberty/personal-website))**: A space where I share about myself, my projects, and my notes.
-* **My production website ([eevos.be](https://github.com/alexandrelamberty/eevos.be))**: Visit my production website, showcasing applications and IT services.
+* **My production website ([eevos.be](https://github.com/alexandrelamberty/eevos.be))**: Visit my production website, showcasing applications.
 * **My blog ([idomeyoudoyou.com](https://github.com/alexandrelamberty/idomeyoudoyou))**: Dive into my blog, featuring posts, essays, galleries, ideas, and various topics.
 
 #### Full Stack Systems
