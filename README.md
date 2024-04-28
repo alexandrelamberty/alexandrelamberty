@@ -152,7 +152,6 @@ Repositories for storing information and knowledge:
 
 * **[Notes](https://github.com/alexandrelamberty/notes)**: My notes. :globe_with_meridians: [notes.alexandrelamberty.com](https://notes.alexandrelamberty.com)
 * **[Projects](https://github.com/alexandrelamberty/projects)**: My projects. :globe_with_meridians: [projects.alexandrelamberty.com](https://projects.alexandrelamberty.com)
-* **[Essays](https://github.com/alexandrelamberty/essays)**: My essays. :globe_with_meridians: [essays.idomeyoudoyou.com](https://essays.idomeyoudoyou.com)
 * **[Posts](https://github.com/alexandrelamberty/posts)**: My posts. :globe_with_meridians: [posts.idomeyoudoyou.com](https://posts.idomeyoudoyou.com)
 * **[Ideas](https://github.com/alexandrelamberty/ideas)**: My ideas. :globe_with_meridians: [ideas.idomeyoudoyou.com](https://ideas.idomeyoudoyou.com)
 * **[Topics](https://github.com/alexandrelamberty/topics)**: My topics currently under research. :globe_with_meridians: [topics.idomeyoudoyou.com](https://topics.idomeyoudoyou.com)
