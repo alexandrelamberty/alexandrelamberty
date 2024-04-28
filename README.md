@@ -37,21 +37,19 @@ Client-side applications designed for web usage:
 
 Applications deployed on servers:
 
-* **Belgian Heating Oil Price ([bhop-api](https://github.com/alexandrelamberty/bhop))
+* **Belgian Heating Oil Price ([bhop-api](https://github.com/alexandrelamberty/bhop))**: Belgium Heating Oil Prices Monitoring Microservice.
 
 #### Mobile Applications
 
 Applications designed for mobile platforms:
 
-* **Planta ([planta-mobile-app](https://github.com/alexandrelamberty/planta-mobile-app))**:
-* **Macellum ([macellum-mobile-app](https://github.com/alexandrelamberty/macellum-mobile-app))**:
-* **Nidus ([nidus-mobile-app](https://github.com/alexandrelamberty/nidus-mobile-app))**:
+* **Planta ([planta-mobile-app](https://github.com/alexandrelamberty/planta-mobile-app))**: Plant Healthcare Mobile Application.
 
 #### CLI Creations
 
 Command-line tools and utilities:
 
-1. **IKBS ([ikbs-cli](https://github.com/alexandrelamberty/ikbs-cli))**: Purpose and functionality of the command-line interface.
+1. **IKBS ([ikbs-cli](https://github.com/alexandrelamberty/ikbs-cli))**: Information and Knowledge Base System Command Line Interface
 
 #### Libraries & Frameworks
 
