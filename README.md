@@ -159,7 +159,7 @@ Repositories for storing information and knowledge:
 * **Cooking recipes ([cooking-recipes](https://github.com/alexandrelamberty/cooking-recipes))**: My cooking recipes.
 * **Favorites ([favorites](https://github.com/alexandrelamberty/favorites))**: My lists of books, movies, musics, paitnings, ...
 
-In addition to my projects hosted on GitHub, you can also find my Node libraries on both [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=npm&tab=packages) and [NPM](https://www.npmjs.com/settings/alexandrelamberty/packages). For containerized solutions, my Docker images are available on [Docker Hub](https://hub.docker.com/u/alexandrelamberty) and [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=container&tab=packages). Feel free to explore and utilize these resources in your own projects.
+In addition to my projects hosted on GitHub, you can also find my Node libraries on both [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=npm&tab=packages) and [NPM](https://www.npmjs.com/settings/alexandrelamberty/packages). For containerized solutions, my Docker images are available on [Docker Hub](https://hub.docker.com/u/alexandrelamberty) and [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=container&tab=packages).
 
 ### Tools
 
