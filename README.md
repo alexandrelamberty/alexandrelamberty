@@ -152,12 +152,12 @@ Repositories for storing information and knowledge:
 
 * **[Notes](https://github.com/alexandrelamberty/notes) ([notes.alexandrelamberty.com](https://notes.alexandrelamberty.com))**: My notes. Read my notes
 * **[Projects](https://github.com/alexandrelamberty/projects) ([projects.alexandrelamberty.com](https://projects.alexandrelamberty.com))**: My projects.
-* **[Essays](https://github.com/alexandrelamberty/essays) ([posts.idomeyoudoyou.com](https://essays.idomeyoudoyou.com))**: My posts.
-* **[Posts](https://github.com/alexandrelamberty/posts) ([essays](https://posts.idomeyoudoyou.com))**: My essays.
-* **[Ideas](https://github.com/alexandrelamberty/ideas) ([ideas]([https://ideas.idomeyoudoyou.com]))**: My ideas.
-* **[Topics](https://github.com/alexandrelamberty/topics) ([topics](https://topics.idomeyoudoyou.com))**: My topics currently under research.
-* **[Cooking-Recipes](https://github.com/alexandrelamberty/cooking-recipes) ([cooking-recipes](https://favorites.idomeyoudoyou.com))**: My cooking recipes.
-* **[Favorites](https://github.com/alexandrelamberty/favorites) ([favorites](https://cooking-recipes.idomeyoudoyou.com))**: My lists of books, movies, musics, paitnings, ...
+* **[Essays](https://github.com/alexandrelamberty/essays) ([essays.idomeyoudoyou.com](https://essays.idomeyoudoyou.com))**: My essays.
+* **[Posts](https://github.com/alexandrelamberty/posts) ([posts.idomeyoudoyou.com](https://posts.idomeyoudoyou.com))**: My posts.
+* **[Ideas](https://github.com/alexandrelamberty/ideas) ([ideas.idomeyoudoyou.com](https://ideas.idomeyoudoyou.com))**: My ideas.
+* **[Topics](https://github.com/alexandrelamberty/topics) ([topics.idomeyoudoyou.com](https://topics.idomeyoudoyou.com))**: My topics currently under research.
+* **[Cooking-Recipes](https://github.com/alexandrelamberty/cooking-recipes) ([cooking-recipes.idomeyoudoyou.com](https://cooking-recipes.idomeyoudoyou.com))**: My cooking recipes.
+* **[Favorites](https://github.com/alexandrelamberty/favorites) ([favorites.idomeyoudoyou.com](https://favorites.idomeyoudoyou.com))**: My lists of books, movies, musics, paitnings, ...
 
 In addition to my projects hosted on GitHub, you can also find my Node libraries on both [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=npm&tab=packages) and [NPM](https://www.npmjs.com/settings/alexandrelamberty/packages). For containerized solutions, my Docker images are available on [Docker Hub](https://hub.docker.com/u/alexandrelamberty) and [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=container&tab=packages).
 
