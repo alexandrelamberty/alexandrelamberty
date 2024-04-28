@@ -6,7 +6,7 @@ Feel free to connect with me through [my website](https://alexandrelamberty.com)
 
 ### :blue_book: Projects
 
-Here's a glimpse of my ongoing projects:
+Let's take a peek into my project collection. I have quite a few ongoing ones—I tend to generate ideas faster than code! Here's a snapshot of what's currently in the pipeline:
 
 #### :bookmark: Websites
 
