@@ -4,7 +4,7 @@ I'm Alex, a computer hobbyist, builder, and designer deeply passionate about pro
 
 Feel free to connect with me through [my website](https://alexandrelamberty.com) or via email at <mail@alexandrelamberty.com>.
 
-### Projects
+### :blue_book: Projects
 
 Here's a glimpse of my ongoing projects:
 
