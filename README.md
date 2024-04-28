@@ -12,95 +12,95 @@ Let's take a peek into my project collection. I have quite a few ongoing ones—
 
 A collection of websites I've designed and developed:
 
-* **My personal website ([alexandrelamberty.com](https://github.com/alexandrelamberty/personal-website))**: A space where I share about myself, my projects, and my notes.
-* **My production website ([eevos.be](https://github.com/alexandrelamberty/eevos.be))**: Visit my production website, showcasing applications.
-* **My blog ([idomeyoudoyou.com](https://github.com/alexandrelamberty/idomeyoudoyou))**: Dive into my blog, featuring posts, essays, galleries, ideas, and various topics.
+* **[My personal website](https://github.com/alexandrelamberty/personal-website) ([https://alexandrelamberty.com](https://alexandrelamberty.com))**: A space where I share about myself, my projects, and my notes.
+* **[My production website](https://github.com/alexandrelamberty/eevos.be) ([https://eevos.be](https://eevos.be))**: Visit my production website, showcasing applications.
+* **[My blog](https://github.com/alexandrelamberty/idomeyoudoyou) ([https://idomeyoudoyou.com](https://idomeyoudoyou.com))**: Dive into my blog, featuring posts, essays, galleries, ideas, and various topics.
 
 ### :bookmark: Full Stack Systems
 
  Full-stack projects covering a wide range of technologies. Each project showcases a deep exploration of various tech stacks:
 
-* **Hortus ([hortus](https://github.com/alexandrelamberty/hortus))**: Gardening Planner.
-* **Macellum ([macellum](https://github.com/alexandrelamberty/macellum))**: Grocery Management System.
-* **Nidus ([nidus](https://github.com/alexandrelamberty/nidus))**: Home Automation and Monitoring System.
-* **Minerva ([nidus](https://github.com/alexandrelamberty/nidus))**: Training Management System.
-* **Collab ([collab](https://github.com/alexandrelamberty/nidus))**: Collaborative Project Management.
-* **IKBS ([ikbs](https://github.com/alexandrelamberty/ikbs))**: Information and Knowledge Based System
+* **[Hortus](https://github.com/alexandrelamberty/hortus)**: Gardening Planner.
+* **[macellum](https://github.com/alexandrelamberty/macellum)**: Grocery Management System.
+* **[nidus](https://github.com/alexandrelamberty/nidus)**: Home Automation and Monitoring System.
+* **[nidus](https://github.com/alexandrelamberty/nidus)**: Training Management System.
+* **[collab](https://github.com/alexandrelamberty/nidus)**: Collaborative Project Management.
+* **[ikbs](https://github.com/alexandrelamberty/ikbs)**: Information and Knowledge Based System
 
 ### :bookmark: Web Client Applications
 
 Client-side applications designed for web usage:
 
-* **NeoWS ([nasa-neows-web-app](https://github.com/alexandrelamberty/nasa-neows-webapp))**: NASA Near Earth Object Web Application.
+* **[nasa-neows-web-app](https://github.com/alexandrelamberty/nasa-neows-webapp)**: NASA Near Earth Object Web Application.
 
 ### :bookmark: Server Applications
 
 Applications deployed on servers:
 
-* **Belgian Heating Oil Price ([bhop-api](https://github.com/alexandrelamberty/bhop))**: Belgium Heating Oil Prices Monitoring Microservice.
+* **B[bhop-api](https://github.com/alexandrelamberty/bhop)**: Belgium Heating Oil Prices Monitoring Microservice.
 
 ### :bookmark: Mobile Applications
 
 Applications designed for mobile platforms:
 
-* **Planta ([planta-mobile-app](https://github.com/alexandrelamberty/planta-mobile-app))**: Plant Healthcare Mobile Application.
+* **[planta-mobile-app](https://github.com/alexandrelamberty/planta-mobile-app)**: Plant Healthcare Mobile Application.
 
 ### :bookmark: CLI Creations
 
 Command-line tools and utilities:
 
-1. **IKBS ([ikbs-cli](https://github.com/alexandrelamberty/ikbs-cli))**: Information and Knowledge Base System Command Line Interface
+1. **[ikbs-cli](https://github.com/alexandrelamberty/ikbs-cli)**: Information and Knowledge Base System Command Line Interface
 
 ### :bookmark: Libraries & Frameworks
 
 Reusable libraries and frameworks:
 
-1. **Pittacium ([pittacium-go](https://github.com/alexandrelamberty/pittacium))**: Generate PDF document with labels.
-2. **Banking Lib Demo ([banking-lib-demo](https://github.com/alexandrelamberty/banking-lib-demo))**: Banking library demo package for my FSWD training.
+1. **[pittacium-go](https://github.com/alexandrelamberty/pittacium)**: Generate PDF document with labels.
+2. **[banking-lib-demo](https://github.com/alexandrelamberty/banking-lib-demo)**: Banking library demo package for my FSWD training.
 
 ### :bookmark: Extensions / Plugins
 
 Plugins and extensions tailored to enhance your digital experience:
 
-* **Youtube  ([youtube-google-chrome]())**: Save YouTube video thumbnail, archive video, download video.
-* **Documents Organization ([documents-gdoc]())**: Google Document exstension to create binders labels and front page to organize your documents.
-* **IKBS ([ikbs-nvim](https://github.com/alexandrelamberty/ikbs-nvim))**: Neovim plugin to interact with my information and knowledge base system.
-* **Proiectidux ([proiectidux-nvim](https://github.com/alexandrelamberty/proiectidux-nvim))**: Project Management Neovim Plugin.
+* **[youtube-google-chrome](https://github.com/alexandrelamberty/)**: Save YouTube video thumbnail, archive video, download video.
+* **[documents-gdoc](https://github.com/alexandrelamberty/)**: Google Document exstension to create binders labels and front page to organize your documents.
+* **[ikbs-nvim](https://github.com/alexandrelamberty/ikbs-nvim)**: Neovim plugin to interact with my information and knowledge base system.
+* **[proiectidux-nvim](https://github.com/alexandrelamberty/proiectidux-nvim)**: Project Management Neovim Plugin.
 
 ### :bookmark: OpenAPI Specifications
 
 API specifications and documentation:
 
-* **NeoWS API Specification ([nasa-neows-api-spec](https://github.com/alexandrelamberty/nasa-neows-api-spec))**: NASA Near Earth Object Web Service API Specification.
+* **[nasa-neows-api-spec](https://github.com/alexandrelamberty/nasa-neows-api-spec)**: NASA Near Earth Object Web Service API Specification.
 
 ### :bookmark: GitHub Actions
 
 Automated workflows using GitHub Actions:
 
-* **Hugo ([hugo-notes-action](https://github.com/alexandrelamberty/hugo-notes-action))**: Action that generate content for Hugo based on my notes structure and organization.
-* **Stoplight OpenAPI Documentation Action ([openapi-stoplight-doc-action](https://github.com/alexandrelamberty/openapi-stoplight-doc-action))**: Action that generate API documentation from your OpenAPI specification.
+* **[hugo-notes-action](https://github.com/alexandrelamberty/hugo-notes-action)**: Action that generate content for Hugo based on my notes structure and organization.
+* **[openapi-stoplight-doc-action](https://github.com/alexandrelamberty/openapi-stoplight-doc-action)**: Action that generate API documentation from your OpenAPI specification.
 
 ### :bookmark: Configurations
 
 Configurations tailored for various software and Linux environments:
 
-* **\*NIX Configuration ([nix-config](https://github.com/alexandrelamberty/nix-config))**: Overview of*nix configurations and setups.
-* **ZSH ([zsh-config](https://github.com/alexandrelamberty/zsh-config))**: Overview of*nix configurations and setups.
-* **Tmux ([tmux-config](https://github.com/alexandrelamberty/tmux-config))**: Overview of*nix configurations and setups.
-* **Neovim ([nvim-config](https://github.com/alexandrelamberty/nvim-config))**: Overview of*nix configurations and setups.
-* **i3 ([i3-config](https://github.com/alexandrelamberty/i3-config))**: Overview of*nix configurations and setups.
-* **Polybar ([polybar-config](https://github.com/alexandrelamberty/polybar-config))**: Overview of*nix configurations and setups.
-* **Dmenu ([dmenu-config](https://github.com/alexandrelamberty/dmenu-config))**: Overview of*nix configurations and setups.
-* **Prettier ([prettier-config](https://github.com/alexandrelamberty/prettier-config))**: Fine-tuned Prettier configuration for consistent code formatting.
+* **[*nix-config](https://github.com/alexandrelamberty/nix-config)**: Overview of*nix configurations and setups.
+* **[zsh-config](https://github.com/alexandrelamberty/zsh-config)**: Overview of*nix configurations and setups.
+* **[tmux-config](https://github.com/alexandrelamberty/tmux-config)**: Overview of*nix configurations and setups.
+* **[nvim-config](https://github.com/alexandrelamberty/nvim-config)**: Overview of*nix configurations and setups.
+* **[i3-config](https://github.com/alexandrelamberty/i3-config)**: Overview of*nix configurations and setups.
+* **[polybar-config](https://github.com/alexandrelamberty/polybar-config)**: Overview of*nix configurations and setups.
+* **[dmenu-config](https://github.com/alexandrelamberty/dmenu-config)**: Overview of*nix configurations and setups.
+* **[prettier-config](https://github.com/alexandrelamberty/prettier-config)**: Fine-tuned Prettier configuration for consistent code formatting.
 
 ### :bookmark: Infrastructure Adventures
 
 Projects related to infrastructure management:
 
-* **Xraspios ([xraspios-iac](https://github.com/alexandrelamberty/xraspios-iac))**: Ansible playbook for Raspberry Pis: Simplify management and configuration.
-* **VPS ([vps-iac](https://github.com/alexandrelamberty/vps-iac))**: Ansible playbook for my VPSs.
-* **Linux Environments ([lenv-iac](https://github.com/alexandrelamberty/lenv-iac))**: Ansible playbook for my workstations.
-* **Ansible Docker ([ansible-docker](https://github.com/alexandrelamberty/lenv-iac))**: Ansible Role to install Docker.
+* **[xraspios-iac](https://github.com/alexandrelamberty/xraspios-iac)**: Ansible playbook for Raspberry Pis: Simplify management and configuration.
+* **[vps-iac](https://github.com/alexandrelamberty/vps-iac)**: Ansible playbook for my VPSs.
+* **[lenv-iac](https://github.com/alexandrelamberty/lenv-iac)**: Ansible playbook for my workstations.
+* **[ansible-docker](https://github.com/alexandrelamberty/lenv-iac)**: Ansible Role to install Docker.
 
 ### :bookmark: Templates
 
