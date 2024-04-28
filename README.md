@@ -161,7 +161,7 @@ Repositories for storing information and knowledge:
 
 ### :bookmark_tabs: Registries
 
-In addition to my projects hosted on GitHub, you can also find my Node libraries on both [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=npm&tab=packages) and [NPM](https://www.npmjs.com/settings/alexandrelamberty/packages). For containerized solutions, my Docker images are available on [Docker Hub](https://hub.docker.com/u/alexandrelamberty) and [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=container&tab=packages).
+In addition to my projects hosted on GitHub, you can also find my Node libraries on both [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=npm&tab=packages) and [NPM](https://www.npmjs.com/~alexandrelamberty?activeTab=packages). For containerized solutions, my Docker images are available on [Docker Hub](https://hub.docker.com/u/alexandrelamberty) and [GitHub Packages](https://github.com/alexandrelamberty?ecosystem=container&tab=packages).
 
 ### :computer: Tools
 
