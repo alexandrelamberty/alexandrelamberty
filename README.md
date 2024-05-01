@@ -20,10 +20,10 @@ A collection of websites I've designed and developed:
 
  Full-stack projects covering a wide range of technologies. Each project showcases a deep exploration of various tech stacks:
 
-* **[Hortus](https://github.com/alexandrelamberty/hortus)**: Gardening Planner.
+* **[hortus](https://github.com/alexandrelamberty/hortus)**: Gardening Planner.
 * **[macellum](https://github.com/alexandrelamberty/macellum)**: Grocery Management System.
 * **[nidus](https://github.com/alexandrelamberty/nidus)**: Home Automation and Monitoring System.
-* **[nidus](https://github.com/alexandrelamberty/nidus)**: Training Management System.
+* **[minerva](https://github.com/alexandrelamberty/minerva)**: Training Management System.
 * **[collab](https://github.com/alexandrelamberty/nidus)**: Collaborative Project Management.
 * **[ikbs](https://github.com/alexandrelamberty/ikbs)**: Information and Knowledge Base System
 
