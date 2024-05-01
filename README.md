@@ -25,7 +25,7 @@ A collection of websites I've designed and developed:
 * **[nidus](https://github.com/alexandrelamberty/nidus)**: Home Automation and Monitoring System.
 * **[nidus](https://github.com/alexandrelamberty/nidus)**: Training Management System.
 * **[collab](https://github.com/alexandrelamberty/nidus)**: Collaborative Project Management.
-* **[ikbs](https://github.com/alexandrelamberty/ikbs)**: Information and Knowledge Based System
+* **[ikbs](https://github.com/alexandrelamberty/ikbs)**: Information and Knowledge Base System
 
 ### :label: Web Client Applications
 
