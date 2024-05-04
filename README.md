@@ -37,7 +37,7 @@ Client-side applications designed for web usage:
 
 Applications deployed on servers:
 
-* **B[bhop-api](https://github.com/alexandrelamberty/bhop)**: Belgium Heating Oil Prices Monitoring Microservice.
+* **[bhop-api](https://github.com/alexandrelamberty/bhop)**: Belgium Heating Oil Prices Monitoring Microservice.
 
 ### :label: Mobile Applications
 
