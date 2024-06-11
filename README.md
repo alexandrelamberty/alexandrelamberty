@@ -20,12 +20,12 @@ A collection of websites I've designed and developed:
 
  Full-stack projects covering a wide range of technologies. Each project showcases a deep exploration of various tech stacks:
 
-* **[hortus](https://github.com/alexandrelamberty/hortus)**: Gardening Planner.
-* **[nidus](https://github.com/alexandrelamberty/nidus)**: Home Automation and Monitoring.
-* **[macellum](https://github.com/alexandrelamberty/macellum)**: Grocery Management. 
-* **[collab](https://github.com/alexandrelamberty/collab)**: Collaborative Project Management.
-* **[minerva](https://github.com/alexandrelamberty/minerva)**: Training Management for my Full Stack Web Developer training.
-* **[minerva](https://github.com/alexandrelamberty/bookstore)**: Online Bookstore for my Full Stack Web Developer training.
+* **[Hortus](https://github.com/alexandrelamberty/hortus)**: Gardening Planner.
+* **[Nidus](https://github.com/alexandrelamberty/nidus)**: Home Automation and Monitoring.
+* **[Macellum](https://github.com/alexandrelamberty/macellum)**: Grocery Management. 
+* **[Collab](https://github.com/alexandrelamberty/collab)**: Collaborative Project Management.
+* **[Minerva](https://github.com/alexandrelamberty/minerva)**: Training Management for my Full Stack Web Developer training @ https://technofuturtic.be. 
+* **[Bookstore](https://github.com/alexandrelamberty/bookstore)**: Online Bookstore for my Full Stack Web Developer training @ https://technofuturtic.be.
 
 ### :label: Web Client Applications
 
