@@ -24,8 +24,8 @@ A collection of websites I've designed and developed:
 * **[nidus](https://github.com/alexandrelamberty/nidus)**: Home Automation and Monitoring.
 * **[macellum](https://github.com/alexandrelamberty/macellum)**: Grocery Management. 
 * **[collab](https://github.com/alexandrelamberty/collab)**: Collaborative Project Management.
-* **[minerva](https://github.com/alexandrelamberty/minerva)**: Training Management for my Full Stack Developer training.
-* **[minerva](https://github.com/alexandrelamberty/bookstore)**: Online Bookstore for my Full Stack Developer training.
+* **[minerva](https://github.com/alexandrelamberty/minerva)**: Training Management for my Full Stack Web Developer training.
+* **[minerva](https://github.com/alexandrelamberty/bookstore)**: Online Bookstore for my Full Stack Web Developer training.
 
 ### :label: Web Client Applications
 
